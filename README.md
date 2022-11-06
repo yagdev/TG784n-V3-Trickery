@@ -13,3 +13,5 @@ IPv4 Server => Off (You need another router to be connected to give IPs)
 Login Username => meo
 Login Password => meo
 User previleges => RootUser
+Wi-Fi SSID => GENERIC
+Wi-Fi Password => GENERIC
